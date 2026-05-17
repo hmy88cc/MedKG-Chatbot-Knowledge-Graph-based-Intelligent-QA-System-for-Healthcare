@@ -1,9 +1,5 @@
 # Medical Knowledge Graph-based Intelligent Q&A System v2.0
 
-> "Keeping humans always rational is indeed a luxury." —— MOSS, The Wandering Earth
-
-![](./pictures/082501.png)
-
 ## Overview
 
 This project is an intelligent medical dialogue system based on knowledge graphs and deep learning. It employs BiLSTM-CRF for Named Entity Recognition (NER), TextCNN for intent classification, and Neo4j graph database for storing and querying medical knowledge, enabling natural language question-and-answer interactions.
