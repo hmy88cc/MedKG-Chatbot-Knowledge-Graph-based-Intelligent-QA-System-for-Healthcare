@@ -1,0 +1,2 @@
+# MedKG-Chatbot-Knowledge-Graph-based-Intelligent-QA-System-for-Healthcare
+This medical intelligent dialogue system integrates knowledge graph and deep learning. It uses BiLSTM-CRF (10 entity types, F1=0.98) for NER and TextCNN for intent classification (18 question types). Storing 50,000 entities and 390,000 relationships in Neo4j, it supports Cypher-based querying, multi-turn conversation with context memory.
